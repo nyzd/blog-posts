@@ -1,2 +1,6 @@
 ### This is a Test
-Hellllllo
+```rust
+fn x(): u8 {
+    return 1;
+}
+```
