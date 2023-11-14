@@ -9,4 +9,4 @@ In this section I will walk you into the history of Philosophy, History of Philo
 of study in Philosophy, There's thousands book's about it and hardworking writers and thinkers around it.
 
 > The history of philosophy is the systematic study of the development of philosophical thought. It focuses on philosophy as rational inquiry based on argumentation but some theorists also include myths, religious traditions, and proverbial lore.
-Says Wikipedia
+***Says Wikipedia***
